@@ -1,0 +1,110 @@
+ul{
+	style:none;
+	margin:auto;
+	padding:8px;		
+}
+
+.don{
+    text-decoration: line-through;
+}
+.donoff{
+    border: 0px solid blue;
+}
+
+.divx {
+	width: 220px;
+	border: 1px solid Black;
+	margin: 20px 20px 20px 10px;
+	display:block;
+	float:left;
+	border-radius:10px;
+	padding:8px;		
+}
+.tbxp {
+	margin: 10px 10px 10px 10px;
+	float:left;
+	padding:8px;		
+}
+#outer{
+	width: 680px;
+	height: 650px;
+	border: 3px solid Black;
+	background: lightgreen;
+}
+
+#lPs1 {
+	float: right;
+}
+
+#Lbt1 {
+	float: right;
+}
+
+.Lbt2 {margin: 20px 20px 20px 10px;
+	float: left;
+	style ="font-family: arial "; size ="6";
+	background: Black;
+	color: white;
+}
+#RDO1_bt{float: right;
+	/* margin: 10px 0px 0px 400px; */
+}
+
+#xbox {
+	width: 600;
+	height: 250px;
+	border: 8px solid blue;
+	margin: 20px 20px 20px 10px;
+}
+
+#helo1 {
+	width: 180px;
+	height: 30px;
+	border: 2px solid black;
+	/* 	margin: 20px 20px 20px 10px; */
+}
+
+#tbox1 {
+	border: 2px solid black;
+	margin: -20px 20px 20px 10px;
+}
+
+#tbox2 {
+	border: 2px solid blue;
+	margin: -20px 20px 20px 10px;
+}
+
+#picg {
+	width: 80;
+	height: 80px;
+	/* border: 1px solid black; */
+	margin: 20px 20px 20px 10px;
+	background-image: url("../images/img104.jpg");
+	background-repeat: no-repeat;
+}
+
+#copyMe {
+	width: 80;
+	height: 10px;
+	/* border: 1px solid black; */
+	margin: 0px 20px 20px 210px;
+	display: no-block;
+}
+
+#imag1 {
+	width: 150px;
+	height: 100px;
+	/* border: 3px solid red; */
+	margin: 15px 400px 0px 0px;
+	/* background-color: gray; */
+	display: block;
+	float: right;
+}
+
+#btn {
+	/* border: 3px solid red; */
+	margin: 15px 400px 0px 0px;
+	/* background-color: gray; */
+	display: block;
+	float: right;
+}
